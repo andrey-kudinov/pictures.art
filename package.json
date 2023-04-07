@@ -1,0 +1,19 @@
+{
+  "name": "picture",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "vite",
+    "build": "vite build"
+  },
+  "author": "",
+  "license": "ISC",
+  "browserslist": [
+    "> 1%",
+    "not dead"
+  ],
+  "devDependencies": {
+    "vite": "^4.2.1"
+  }
+}
