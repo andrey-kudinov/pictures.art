@@ -15,7 +15,7 @@ yarn
 ## How to run the project:
 
 ```bash
-yarn dev
+yarn serve
 ```
 
 ## How to build the project:
@@ -25,7 +25,7 @@ yarn build
 ```
 
 ## How to copy
-  
+
 ```bash
 git clone https://github.com/andrey-kudinov/pictures.art.git
 cd windows or open folder in your IDE
